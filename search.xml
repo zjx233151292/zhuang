@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>我的第一篇文章</title>
+      <title>我的第一篇文章，测试B站</title>
       <link href="/2023/08/30/2023-8-30-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/08/30/2023-8-30-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章，测试B站"><a href="#这是我的第一篇文章，测试B站" class="headerlink" title="这是我的第一篇文章，测试B站"></a>这是我的第一篇文章，测试B站</h2><div align=center class="aspect-ratio">    <iframe src="//player.bilibili.com/player.html?aid=571673938&bvid=BV1gz4y1z7BL&cid=1144683890&page=1"    scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
       
       
       
