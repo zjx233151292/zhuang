@@ -1,3 +1,20 @@
+// Vue+Element样式弹窗
+new Vue({
+    data: function () {
+        this.$notify({
+            title: "哎嘿！你已被发现😜",
+            message: "欢迎来到我的博客o(*￣︶￣*)o",
+            position: 'top-left',
+            offset: 50,
+            showClose: true,
+            type: "success",
+            duration: 5000
+        });
+    }
+})
+
+
+
 // 自定义鼠标
 var CURSOR;
 
